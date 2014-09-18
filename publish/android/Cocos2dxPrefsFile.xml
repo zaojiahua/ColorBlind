@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<int name="count" value="6" />
+<boolean name="isExit" value="true" />
+</map>
